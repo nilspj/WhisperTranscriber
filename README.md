@@ -63,9 +63,8 @@ This project is intended for:
 ---
 
 ## Disclaimer
-
-This project is provided as-is for personal use. Transcription accuracy may vary depending on audio quality, language, and background noise.
-The example audio file was taken from the free to use media website Pixabay (https://pixabay.com/sound-effects/002145-a-conversation-with-a-neighbor-53032/) and is therfore under the Pixabay Content License (https://pixabay.com/service/license-summary/).
+* This project is provided as-is for personal use. Transcription accuracy may vary depending on audio quality, language, and background noise.
+* The example audio file was taken from the free to use media website Pixabay (https://pixabay.com/sound-effects/002145-a-conversation-with-a-neighbor-53032/) and is therfore under the Pixabay Content License (https://pixabay.com/service/license-summary/).
 ---
 
 ## License
